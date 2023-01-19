@@ -88,7 +88,7 @@ ul.homepage-menu {
 /* background styling */
 
 body {
-    background-image: url('photos/cover.jpg');
+    background-image: url('cover.jpg');
     background-size: 90vw;
     background-repeat: no-repeat;
 }
