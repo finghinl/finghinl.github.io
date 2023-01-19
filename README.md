@@ -1,2 +1,2 @@
-# finghinl.github.io
+# finghin.com
 Personal web page
