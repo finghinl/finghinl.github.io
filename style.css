@@ -129,6 +129,7 @@ div.content {
 div.homepage-menu {
     background-color: #161616;
     color: coral;
+    border-bottom: 1px solid coral;
 }
 
 ::selection {
