@@ -88,9 +88,8 @@ ul.homepage-menu {
 /* background styling */
 
 body {
-    background-image: url('cover.jpg');
-    background-size: 90vw;
-    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    background: url('gif3.gif'), no-repeat top/90vw url('cover.jpg');
 }
 
 html, body, div.content, div.title-divider {
@@ -98,8 +97,7 @@ html, body, div.content, div.title-divider {
 }
 
 span.about-indicator {
-    background-color: rgba(00,00,00,0.45);
-    border-radius: 100%;
+    background-color: #161616;
 }
 
 /* text styling */
